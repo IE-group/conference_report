@@ -34,4 +34,18 @@ https://zhuanlan.zhihu.com/p/92134485
 
 2.https://blog.csdn.net/zong596568821xp/article/details/80797695?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase
 
- 
+---
+Time: 2020/7/13  
+汇报人：吴其平  
+### 文献  
+1. 3D MRI brain tumor segmentation using autoencoder regularition https://arxiv.org/abs/1810.11654v1  
+2. Annotation-Free Gliomas Segmentation Based on a Few Labeled General Brain Tumor Images https://ieeexplore.ieee.org/document/9098366  
+3. Weakly-Supervised Brain Tumor Classification with Global Diagnosis Label https://ieeexplore.ieee.org/document/9098640  
+
+### 参考资料  
+#### 关于VAE  
+1. https://zhuanlan.zhihu.com/p/33194849  
+2. https://blog.csdn.net/choose_c/article/details/102068289  
+3. http://kvfrans.com/variational-autoencoders-explained/  
+#### 关于BraTS2018
+- https://www.med.upenn.edu/sbia/brats2018.html  
