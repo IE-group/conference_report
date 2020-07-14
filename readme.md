@@ -59,20 +59,29 @@ https://docs.qq.com/doc/DWExwbWVCWVNoSGFP
 #### 网络结构
 1. https://www.cnblogs.com/wangguchangqing/p/10333370.html
 2. https://www.jianshu.com/p/15e413985f25
+
 3. https://my.oschina.net/u/876354/blog/1637819
+
 4.https://my.oschina.net/u/876354/blog/1622896 
 #### 结构特点与优缺点
 1.https://baike.baidu.com/item/AlexNet/22689612?fr=aladdin
 2.https://www.jianshu.com/p/c014f81242e7
 3.https://blog.csdn.net/cc1949/article/details/79238405
+
 4.https://blog.csdn.net/haluoluo211/article/details/81710799
+
 5.https://zhuanlan.zhihu.com/p/42706477
 6.https://www.cnblogs.com/gczr/p/10127723.html
 #### 损失函数、激活函数、评估指标
 1.https://blog.csdn.net/ericcchen/article/details/80102025
+
 2.https://blog.csdn.net/cymy001/article/details/78649132?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase
+
 3.https://blog.csdn.net/ericcchen/article/details/80102006?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.nonecase
+
 4.http://yann.lecun.com/exdb/publis/pdf/chopra-05.pdf
+
 5.http://tflearn.org/objectives/#weak-crossentropy-2d
+
 6.http://tflearn.org/objectives/#roc-auc-score
 
