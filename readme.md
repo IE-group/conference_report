@@ -49,3 +49,6 @@ Time: 2020/7/13
 3. http://kvfrans.com/variational-autoencoders-explained/  
 #### 关于BraTS2018
 - https://www.med.upenn.edu/sbia/brats2018.html  
+
+汇报人：柴露
+https://docs.qq.com/doc/DWExwbWVCWVNoSGFP
