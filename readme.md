@@ -89,3 +89,11 @@ https://docs.qq.com/doc/DWExwbWVCWVNoSGFP
 Time: 2020/7/19  
 汇报人：柴露
 https://docs.qq.com/doc/DWExwbWVCWVNoSGFP
+汇报人：庄镇华
+参考文献：
+U-net改进：
+http://kns.cnki.net/kcms/detail/31.1690.tn.20200601.1551.077.html
+http://kns.cnki.net/kcms/detail/51.1307.TP.20200520.1443.006.html.
+https://ieeexplore.ieee.org/document/9098498
+超参数调节：
+https://ieeexplore.ieee.org/document/8923884
