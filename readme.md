@@ -107,3 +107,15 @@ https://ieeexplore.ieee.org/document/9098498
 超参数调节：
 
 https://ieeexplore.ieee.org/document/8923884
+
+
+汇报人：李嘉晨  
+参考文献：    
+https://link.springer.com/chapter/10.1007%2F978-3-030-32248-9_24  
+CAM原理：   
+https://www.cnblogs.com/luofeel/p/10400954.html   
+   
+可获得的数据集（包含3064张T1模态脑部MRI，三类，脑膜瘤、垂体瘤、神经胶质瘤）：  
+链接：https://pan.baidu.com/s/1i1k5OTdJh6ufH8xhlfQkKg   
+提取码： sfaq   
+原数据库链接：https://figshare.com/articles/brain_tumor_dataset/1512427 （有墙）   
