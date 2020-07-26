@@ -118,4 +118,19 @@ https://www.cnblogs.com/luofeel/p/10400954.html
 可获得的数据集（包含3064张T1模态脑部MRI，三类，脑膜瘤、垂体瘤、神经胶质瘤）：  
 链接：https://pan.baidu.com/s/1i1k5OTdJh6ufH8xhlfQkKg   
 提取码： sfaq   
-原数据库链接：https://figshare.com/articles/brain_tumor_dataset/1512427 （有墙）   
+原数据库链接：https://figshare.com/articles/brain_tumor_dataset/1512427 （有墙）
+
+
+Time: 2020/7/19 
+汇报人：张传睿
+DenseNet-169
+ （Gao Huang, Zhuang Liu, Laurens V an Der Maaten, and Kil-
+ian Q Weinberger. Densely connected convolutional net-
+works. In IEEE conference on computer vision and pattern
+recognition, 2017.）
+LSTM
+（Sepp Hochreiter and Jürgen Schmidhuber. Long short-term
+memory. Neural computation, 9(8):1735–1780, 1997.）
+项目源码
+https://github.com/zengxianyu/mws
+
