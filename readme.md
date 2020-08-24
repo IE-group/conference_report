@@ -145,4 +145,13 @@ https://github.com/zengxianyu/mws
 https://ieeexplore.ieee.org/document/9025617
 
 
-时间：2020
+时间：2020/8 / 17
+汇报人：徐思琪
+用于医学图像分割的深度学习技术：成就和挑战
+https://link.springer.com/article/10.1007/s10278-019-00227-x
+
+
+时间：2020/8 / 24
+汇报人：郑昕瑶
+[AF-SEG：通过自我监督和生成对抗网络进行图像分割的无注释方法](https://ieeexplore.ieee.org/document/9098535/references#references)
+[SC-GAN](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_79)（ constraint of shape consistency）
