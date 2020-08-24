@@ -135,8 +135,14 @@ memory. Neural computation, 9(8):1735–1780, 1997.）
 https://github.com/zengxianyu/mws
 
 ---
-Time: 2020/8/10  
+时间：2020/8/10  
 汇报人：吴其平  
 ### 文献  
 1. Collaborative Learning of Semi-Supervised Segmentation and Classification for Medical Images https://openaccess.thecvf.com/content_CVPR_2019/html/Zhou_Collaborative_Learning_of_Semi-Supervised_Segmentation_and_Classification_for_Medical_Images_CVPR_2019_paper.html
 
+汇报人:郑昕瑶
+ 2019 IEEE / CVF计算机视觉和模式识别研讨会（CVPRW）会议
+https://ieeexplore.ieee.org/document/9025617
+
+
+时间：2020
