@@ -163,5 +163,5 @@ https://link.springer.com/article/10.1007/s10278-019-00227-x
 时间：2020/11/17  
 汇报人：李嘉晨  
 [对抗互补学习的CAM定位]http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Adversarial_Complementary_Learning_CVPR_2018_paper.pdf  
-可应用的部分：1.一种单过程的CAM生成法（省去了原先先出特征图，再求梯度的两部法）；2.通过擦除网络①的输出特征图强迫网络②学习到其他特征，完善CAM
+可应用的部分：1.一种单过程的CAM生成法（省去了原先先出特征图，再求梯度的两部法）；2.通过擦除网络①的输出特征图强迫网络②学习到其他特征，完善CAM  
 [同、异类注意力机制的弱监督定位]https://arxiv.org/pdf/2007.01947.pdf
